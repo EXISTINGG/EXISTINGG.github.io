@@ -13,7 +13,7 @@ timezone: ''
 avatar: https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/Logo-NavBar@3x.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://volantis.js.org
+url: https://blog.hxq-001.top
 root: /
 permalink: :title/
 permalink_defaults:
