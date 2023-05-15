@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Volantis
+title: Existing
 subtitle: ''
 description: 'Volantis 是一个功能丰富、高度模块化的 Hexo 博客主题。得益于其强大的模块化特性，您可以轻松搭建一个极简风格的博客，也可以仿照官网搭建一个多人协作的、包含文档模块的大体量综合型博客。'
 keywords: 'Volantis,Hexo,Hexo主题,Blog,博客'
 author: 'Volantis Team'
 language: zh-CN
 timezone: ''
-avatar: https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/Logo-NavBar@3x.png
+avatar: https://img.hxq-001.top/image/illust_74187208_20200628_074446.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.hxq-001.top
@@ -109,9 +109,9 @@ theme: volantis
 # npm install hexo-deployer-git --save
 deploy:
   - type: git
-    repo: git@github.com:xaoxuu/volantis.js.org.git
+    repo: git@github.com:EXISTINGG/EXISTINGG.github.io.git
     # repo: git@xaoxuu.com:xaoxuu/volantis.git
-    branch: master
+    branch: main
     message: "Github CI Auto Builder at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
 # ssh-keygen -t rsa -b 4096 -C "me@xaoxuu.com" -N "" -f deploy_key
 # 生成一对: deploy_key, deploy_key.pub，其中 deploy_key 填到源码仓库的 Secrets 的 DEPLOY_KEY 中，deploy_key.pub 填到静态文件仓库的 Deploy keys 中。
