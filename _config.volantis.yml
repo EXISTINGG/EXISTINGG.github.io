@@ -34,7 +34,7 @@ navbar:
           toggle: darkmode
         - name: hr
         - name: 本站源码
-          url: https://github.com/volantis-x/volantis-docs/
+          url: https://github.com/EXISTINGG/EXISTINGG.github.io
         - name: 主题源码
           url: https://github.com/volantis-x/hexo-theme-volantis/
         - name: hr
@@ -79,7 +79,7 @@ cover:
       url: /archives/
     - name: 源码
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg
-      url: https://github.com/volantis-x/hexo-theme-volantis/
+      url: https://github.com/EXISTINGG/EXISTINGG.github.io
       # target: _self
 
 
@@ -283,9 +283,11 @@ tag_plugins:
   note: # style for default note:
     iconfont: 'Font Awesome 6 Pro'
 
+# 本地搜索
 search:
   enable: true
   service: hexo
+
 
 plugins:
   clipboard:
@@ -408,7 +410,7 @@ rightmenus:
         - {id: 'examples', name: '示例博客', icon: 'fa-duotone fa-rss PETERRIVE', link: '/examples/', group: 'link'}
         - {id: 'contributors', name: '加入社区', icon: 'fa-duotone fa-fan fa-spin AMETHYST', link: '/contributors/', group: 'link'}
         - hr
-        - {id: 'source_docs', name: '本站源码', icon: 'fa-duotone fa-code-branch WETASPHALT', link: 'https://github.com/volantis-x/volantis-docs/', group: 'link'}
+        - {id: 'source_docs', name: '本站源码', icon: 'fa-duotone fa-code-branch WETASPHALT', link: 'https://github.com/EXISTINGG/EXISTINGG.github.io', group: 'link'}
         - {id: 'source_theme', name: '主题源码', icon: 'fa-duotone fa-code-branch CONCRETE', link: 'https://github.com/volantis-x/hexo-theme-volantis/', group: 'link'}
       darkMode: 
         - {id: 'darkMode', name: '暗黑模式', icon: 'fa-duotone fa-eclipse-alt WISTERIA', event: 'volantis.dark.toggle()', group: 'darkMode'}
