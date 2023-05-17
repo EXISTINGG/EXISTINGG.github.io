@@ -438,8 +438,8 @@ search:
 
 jsonContent:
   ignore:
-    paths: 
-      - /404.html
+    paths:
+      - source/404.html
 
 plugins:
   clipboard:
