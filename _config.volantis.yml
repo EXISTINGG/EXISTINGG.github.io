@@ -482,6 +482,8 @@ plugins:
     room: hexo-theme-volantis/community
   scrollreveal:
     enable: true
+  wordcount:
+    enable: true
 
 custom_css:
   cursor:
@@ -504,7 +506,6 @@ custom_css:
       url: volantis-static/media/fonts/Dosis/Dosis-Medium.ttf
       weight: normal
       style: normal
-  
 
 
 rightmenus:
