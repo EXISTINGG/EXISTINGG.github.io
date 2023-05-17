@@ -15,7 +15,7 @@ avatar: https://img.hxq-001.top/image/mmexport1684222025939.jpg
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.hxq-001.top
 root: /
-permalink: :title/:date/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
