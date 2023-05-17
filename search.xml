@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test2</title>
+      <link href="/test2/"/>
+      <url>/test2/</url>
+      
+        <content type="html"><![CDATA[<p>测试搜索功能</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hello-world/"/>
       <url>/hello-world/</url>
