@@ -436,6 +436,10 @@ search:
   enable: true
   service: hexo
 
+jsonContent:
+  ignore:
+    paths: 
+      - /404.html
 
 plugins:
   clipboard:

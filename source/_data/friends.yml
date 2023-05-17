@@ -1,15 +1,31 @@
-- group: 组别1 # 分组标题
-  description: test # 分组描述
+- group: 官方 # 分组标题
+  description: 官方社区 # 分组描述
   items:
-    - title: test # 名称
-      avatar: https://xpc.hxq-001.top/assets/default_bg-c1c67903.jpg # 头像
-      url: https://chat.hxq-001.top/ # 链接
-      screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
-      keywords: test kw # 关键词
-      description: test desc # 描述
-    - title: test2 # 名称
-      avatar: https://xpc.hxq-001.top/assets/default_bg-c1c67903.jpg # 头像
-      url: https://chat.hxq-001.top/ # 链接
-      screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
-      keywords: test2 kw # 关键词
-      description: test2 desc # 描述
+    - title: Volantis官方社区 # 名称
+      avatar: https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/favicon/apple-touch-icon.png # 头像
+      url: https://volantis.js.org/ # 链接
+      # screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
+      keywords: volantis # 关键词
+      description: Volantis官方社区 # 描述
+    # - title: test2 # 名称
+    #   avatar: https://xpc.hxq-001.top/assets/default_bg-c1c67903.jpg # 头像
+    #   url: https://chat.hxq-001.top/ # 链接
+    #   screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
+    #   keywords: test2 kw # 关键词
+    #   description: test2 desc # 描述
+
+- group: 友人 # 分组标题
+  description: 岁月如歌，流年如梦。 # 分组描述
+  items:
+    - title: Me # 名称
+      avatar: https://img.hxq-001.top/image/mmexport1684222025939.jpg # 头像
+      url: / # 链接
+      # screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
+      # keywords: 😀 # 关键词
+      description: 😀 # 描述
+    # - title: test2 # 名称
+    #   avatar: https://xpc.hxq-001.top/assets/default_bg-c1c67903.jpg # 头像
+    #   url: https://chat.hxq-001.top/ # 链接
+    #   screenshot: https://oss-xpc0.xpccdn.com/newupload/assets/article/cover/2022/2/62144ec12f917 # 截图
+    #   keywords: test2 kw # 关键词
+    #   description: test2 desc # 描述
