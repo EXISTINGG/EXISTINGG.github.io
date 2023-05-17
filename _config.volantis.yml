@@ -439,7 +439,7 @@ search:
 jsonContent:
   ignore:
     paths:
-      - source/404.html
+      - https://blog.hxq-001.top/404
 
 plugins:
   clipboard:
