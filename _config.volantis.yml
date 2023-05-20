@@ -409,7 +409,7 @@ sidebar:
 
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, info,data, copyright]
   social:
     - icon: fas fa-rss
       url: atom.xml
@@ -419,6 +419,7 @@ site_footer:
       url: https://github.com/EXISTINGG
   copyright: '[Copyright © 2023](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
+  data: 本站音乐资源来自<a href="https://music.163.com/" target="_blank">网易云</a>
   br: '<br>'
 
 pages:
