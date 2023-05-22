@@ -3,7 +3,7 @@ content_visibility: true
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://img.hxq-001.top/myimags/src/assets/image/001circle.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    img: https://img.hxq-001.top/assets/001circle-44dfca89.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
     title:
   menu:
@@ -93,7 +93,7 @@ cover:
 #     top_meta: [author, category, date]
 #     meta_library:
 #       author:
-#         avatar: https://img.hxq-001.top/myimags/src/assets/image/001circle.png
+#         avatar: https://img.hxq-001.top/assets/001circle-44dfca89.png
 #         name: Existing
 #         url: / #https://blog.hxq-001.top/about
 #       updated:
@@ -204,7 +204,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://img.hxq-001.top/myimags/src/assets/image/001circle.png
+        avatar: https://img.hxq-001.top/assets/001circle-44dfca89.png
         name: Existing
         url: /
       # 文章创建日期
@@ -288,7 +288,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://img.hxq-001.top/myimags/src/assets/image/mmexport1684222025939.jpg
+      avatar: https://img.hxq-001.top/assets/mmexport1684222025939-a25ab951.jpg
       shape: rectangle # circle, rectangle
       url: /about/
       title: Existing
