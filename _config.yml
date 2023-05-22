@@ -10,7 +10,7 @@ keywords: 'Volantis,Hexo,Hexo主题,Blog,博客'
 author: 'Volantis Team'
 language: zh-CN
 timezone: ''
-avatar: https://img.hxq-001.top/image/mmexport1684222025939.jpg
+avatar: https://img.hxq-001.top/myimags/src/assets/image/mmexport1684222025939.jpg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.hxq-001.top
@@ -123,18 +123,18 @@ deploy:
 import:
   head_begin:
     - <meta name="msapplication-TileColor" content="#ffffff">
-    - <meta name="msapplication-config" content="https://img.hxq-001.top/favicon/001circle.ico">
+    - <meta name="msapplication-config" content="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
     - <meta name="theme-color" content="#ffffff">
-    - <link rel="apple-touch-icon" sizes="180x180" href="https://img.hxq-001.top/favicon/001circle.ico">
-    - <link rel="icon" type="image/png" sizes="32x32" href="https://img.hxq-001.top/favicon/001circle.ico">
-    - <link rel="icon" type="image/png" sizes="16x16" href="https://img.hxq-001.top/favicon/001circle.ico">
+    - <link rel="apple-touch-icon" sizes="180x180" href="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
+    - <link rel="icon" type="image/png" sizes="32x32" href="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
+    - <link rel="icon" type="image/png" sizes="16x16" href="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
     - <link rel="manifest" href="/site.webmanifest">
-    - <link rel="mask-icon" href="https://img.hxq-001.top/favicon/001circle.ico" color="#5bbad5">
-    - <link rel="shortcut icon" href="https://img.hxq-001.top/favicon/001circle.ico">
+    - <link rel="mask-icon" href="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico" color="#5bbad5">
+    - <link rel="shortcut icon" href="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
     - <meta name="apple-mobile-web-app-title" content="Existing">
     - <meta name="application-name" content="Existing">
     - <meta name="msapplication-TileColor" content="#f4f4f4">
-    - <meta name="msapplication-TileImage" content="https://img.hxq-001.top/favicon/001circle.ico">
+    - <meta name="msapplication-TileImage" content="https://img.hxq-001.top/myimags/src/assets/favicon/001circle.ico">
     - '<meta name="theme-color" content="#f4f4f4" media="(prefers-color-scheme: light)">'
     - '<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">'
   head_end:
